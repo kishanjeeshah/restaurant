@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/restaurant/static/css/main.8ebfd95b.css",
+    "main.js": "/restaurant/static/js/main.949007aa.js",
+    "static/media/christoffer-engstrom-8NuHwPbO62k-unsplash.jpg": "/restaurant/static/media/christoffer-engstrom-8NuHwPbO62k-unsplash.90ae0afadd210d86a669.jpg",
+    "static/media/shop3.png": "/restaurant/static/media/shop3.534a50af1af35b38598a.png",
+    "static/media/shop4.png": "/restaurant/static/media/shop4.135ed1d0df85e62c8986.png",
+    "static/media/image1.png": "/restaurant/static/media/image1.b15d80eda73cc75a4fff.png",
+    "static/media/shop5.png": "/restaurant/static/media/shop5.bbb0a42348dd77e000a0.png",
+    "static/media/shop2.png": "/restaurant/static/media/shop2.edc7f3326b7f93ba5d50.png",
+    "static/media/shop6.png": "/restaurant/static/media/shop6.e153b6c19feb87eefb0a.png",
+    "static/media/about1.png": "/restaurant/static/media/about1.4120c92b394845e6c4b6.png",
+    "static/media/about3.png": "/restaurant/static/media/about3.b57625efc19281d4ec9d.png",
+    "static/media/wallpaperflare.com_wallpaper.jpg": "/restaurant/static/media/wallpaperflare.com_wallpaper.759e408e960e4bb53e70.jpg",
+    "static/media/shop1.png": "/restaurant/static/media/shop1.9ead494e5157e2446a5a.png",
+    "static/media/about2.png": "/restaurant/static/media/about2.a1c6905758e6ce715c04.png",
+    "index.html": "/restaurant/index.html",
+    "main.8ebfd95b.css.map": "/restaurant/static/css/main.8ebfd95b.css.map",
+    "main.949007aa.js.map": "/restaurant/static/js/main.949007aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ebfd95b.css",
+    "static/js/main.949007aa.js"
+  ]
+}
